@@ -1,2 +1,3 @@
 # vue
-vue全家桶
+vue商城项目
+运行 npm run serve
